@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dc1afc3395716b94392b0760661d36a4
+timeCreated: 1486443011
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - foodPrefab: {fileID: 147020, guid: b86855d38c9886448aa9538475c404e7, type: 2}
+  - borderTop: {instanceID: 0}
+  - borderBottom: {instanceID: 0}
+  - borderRight: {instanceID: 0}
+  - borderLeft: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

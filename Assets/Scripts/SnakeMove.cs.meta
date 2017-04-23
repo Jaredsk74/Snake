@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2822385ddd9bd84429f46aaf54012b4a
+timeCreated: 1486445051
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - script: {instanceID: 0}
+  - pop: {fileID: 8300000, guid: df26394b1c49f254b87508c46dca940e, type: 3}
+  - bite: {fileID: 8300000, guid: e3a7f9f770710e643ac2e908e8baa6f6, type: 3}
+  - source: {instanceID: 0}
+  - tailPrefab: {fileID: 192978, guid: fa1e2c0c99cdd16419d2aac28022cd2b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
